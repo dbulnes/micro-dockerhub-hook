@@ -40,6 +40,7 @@
     "test-listen": "^1.0.2"
   },
   "dependencies": {
-    "micro": "^9.0.0"
+    "micro": "^9.1.0",
+    "pm2": "^2.9.3"
   }
 }
